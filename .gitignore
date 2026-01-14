@@ -1,0 +1,22 @@
+﻿# Unreal Engine 5 Gitignore
+
+# Binaries e pastas temporárias
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDEs
+.idea/
+.vs/
+.vsconfig
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Arquivos de log e outros
+*.log
